@@ -4,7 +4,8 @@ Hi 👋 My name is İrfan
 Web Developer
 -----------------------
 
-Hello there, I'm Irfan. I live in Sakarya, where I was born and raised. I graduated from Sakarya University, the Department of Finance. Since I'm more prone to cyberspace and I didn't plan a career in the finance department, I wanted to take my chance in the software industry. Apart from the education I received, I aim to improve myself and enhance my abilities in the field of software. I am planning to reach for the right position in my career. I want to make a good start and maintain it by working and being a part of a corporate company where I can apply my knowledge and skills and improve myself by consulting experts.
+Welcome, I am Irfan. Nice to meet you.
+I am a web developer. I am a junior programmer with good knowledge of front-end techniques. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also I like working in a team, I'll learn faster and much more.
 
 * 🌍  I'm based in Sakarya
 * ✉️  You can contact me at [irfancsutlu@gmail.com](mailto:irfancsutlu@gmail.com)
