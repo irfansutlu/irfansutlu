@@ -8,7 +8,6 @@ Hello there, I'm Irfan. I live in Sakarya, where I was born and raised. I gradua
 
 * 🌍  I'm based in Sakarya
 * ✉️  You can contact me at [irfancsutlu@gmail.com](mailto:irfancsutlu@gmail.com)
-* 🧠  I'm learning HTML, CSS, Javascript, React, Bootstrap
 
 
 ### Skills
